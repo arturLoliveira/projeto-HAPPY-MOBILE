@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "happy",
+    "slug": "happy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "splash": {
+      "image": "./assets/Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2AB5D1"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.artur.happy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.artur.happy",
+      "versionCode": 1
+    }
+  }
+}
